@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-IIIII iiimm not Y
-=======
-IIIII iiimm 2 y
->>>>>>> featureY
